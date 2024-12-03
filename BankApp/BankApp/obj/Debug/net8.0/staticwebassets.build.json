@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "vbXno1l/JY7b7ebE8vcsSUWKE7aMNwsxmuhi7Ez84n4=",
+  "Source": "BankApp",
+  "BasePath": "_content/BankApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApp\\wwwroot",
+      "Source": "BankApp",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\BankApp\\BankApp\\wwwroot\\Rupesh_Shrestha_Transcript.pdf",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "Rupesh_Shrestha_Transcript.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rupesh_Shrestha_Transcript.pdf"
+    }
+  ]
+}

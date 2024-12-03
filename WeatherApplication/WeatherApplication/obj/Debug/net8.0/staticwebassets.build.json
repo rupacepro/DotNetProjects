@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9bqN9rNPMigbYyuG/CBXT+hVPl4xKVZarKYCCcGDdTw=",
+  "Source": "WeatherApplication",
+  "BasePath": "_content/WeatherApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherApplication\\wwwroot",
+      "Source": "WeatherApplication",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\WeatherApplication\\WeatherApplication\\wwwroot\\",
+      "BasePath": "_content/WeatherApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

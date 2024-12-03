@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\Co-op Job Search Log.xlsx",
+      "PackagePath": "staticwebassets\\Co-op Job Search Log.xlsx"
+    },
+    {
+      "Id": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\Rupesh_Shrestha_Eligibility_Letter.pdf",
+      "PackagePath": "staticwebassets\\Rupesh_Shrestha_Eligibility_Letter.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IActionResultExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IActionResultExample.props",
+      "PackagePath": "build\\IActionResultExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IActionResultExample.props",
+      "PackagePath": "buildMultiTargeting\\IActionResultExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IActionResultExample.props",
+      "PackagePath": "buildTransitive\\IActionResultExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

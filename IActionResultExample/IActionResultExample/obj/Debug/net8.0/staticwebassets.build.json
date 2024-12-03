@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "xtppEap9IRAvIp98WRVwpJuWOT3tfB/Cs5DolV9myNs=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\Co-op Job Search Log.xlsx",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "Co-op Job Search Log.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Co-op Job Search Log.xlsx"
+    },
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\Rupesh_Shrestha_Eligibility_Letter.pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "Rupesh_Shrestha_Eligibility_Letter.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rupesh_Shrestha_Eligibility_Letter.pdf"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FwQ9GDJz6N+5Dzoz8sg7zWgx6cZIlQf7yaOGGVDCDF4=",
+  "Source": "ViewFirst",
+  "BasePath": "_content/ViewFirst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewFirst\\wwwroot",
+      "Source": "ViewFirst",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\ViewFirst\\ViewFirst\\wwwroot\\",
+      "BasePath": "_content/ViewFirst",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

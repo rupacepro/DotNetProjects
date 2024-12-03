@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\Co-op Job Search Log.xlsx",
+      "PackagePath": "staticwebassets\\Co-op Job Search Log.xlsx"
+    },
+    {
+      "Id": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\Rupesh_Shrestha_Transcript.pdf",
+      "PackagePath": "staticwebassets\\Rupesh_Shrestha_Transcript.pdf"
+    },
+    {
+      "Id": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\a.png",
+      "PackagePath": "staticwebassets\\a.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControllersAndIActionResult.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ControllersAndIActionResult.props",
+      "PackagePath": "build\\ControllersAndIActionResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllersAndIActionResult.props",
+      "PackagePath": "buildMultiTargeting\\ControllersAndIActionResult.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ControllersAndIActionResult.props",
+      "PackagePath": "buildTransitive\\ControllersAndIActionResult.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

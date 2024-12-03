@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "TUUdWzQLWA7As/w6cE6r3KaeZCITgDryu6tDDoR1nss=",
+  "Source": "ControllersAndIActionResult",
+  "BasePath": "_content/ControllersAndIActionResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersAndIActionResult\\wwwroot",
+      "Source": "ControllersAndIActionResult",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\",
+      "BasePath": "_content/ControllersAndIActionResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\a.png",
+      "SourceId": "ControllersAndIActionResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\",
+      "BasePath": "_content/ControllersAndIActionResult",
+      "RelativePath": "a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\a.png"
+    },
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\Co-op Job Search Log.xlsx",
+      "SourceId": "ControllersAndIActionResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\",
+      "BasePath": "_content/ControllersAndIActionResult",
+      "RelativePath": "Co-op Job Search Log.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Co-op Job Search Log.xlsx"
+    },
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\Rupesh_Shrestha_Transcript.pdf",
+      "SourceId": "ControllersAndIActionResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\ControllersAndIActionResult\\ControllersAndIActionResult\\wwwroot\\",
+      "BasePath": "_content/ControllersAndIActionResult",
+      "RelativePath": "Rupesh_Shrestha_Transcript.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rupesh_Shrestha_Transcript.pdf"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿@model IEnumerable<WeatherApplication.Models.CityWeather>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weather Application</title>
+    </head>
+    <body>
+        <h2>Weather</h2>
+        <div style="margin-top: 20%; display: flex; padding: 5px; gap: 10px">
+        @foreach(var cityWeather in Model)
+        {
+            <div style="width: 30%; border: 1px solid #000; padding: 5px">
+                <h1>@cityWeather.CityName</h1>
+                <h2>@cityWeather.CityUniqueCode</h2>
+                <h3>@cityWeather.DateAndTime</h3>
+            </div>
+        }
+        </div>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ZlYLfxVGPGag2W71YJAVDqlAhW2KtruNq4gHfeDXytA=",
+  "Source": "RoutingEndpoints",
+  "BasePath": "_content/RoutingEndpoints",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingEndpoints\\wwwroot",
+      "Source": "RoutingEndpoints",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\RoutingEndpoints\\RoutingEndpoints\\wwwroot\\",
+      "BasePath": "_content/RoutingEndpoints",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

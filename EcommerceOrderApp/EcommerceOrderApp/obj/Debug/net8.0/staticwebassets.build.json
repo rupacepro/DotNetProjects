@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "2eH0FZu0YGAmvmmzCr1ILkk99N0t/DswdHZnnVej4iA=",
+  "Source": "EcommerceOrderApp",
+  "BasePath": "_content/EcommerceOrderApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EcommerceOrderApp\\wwwroot",
+      "Source": "EcommerceOrderApp",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\EcommerceOrderApp\\EcommerceOrderApp\\wwwroot\\",
+      "BasePath": "_content/EcommerceOrderApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

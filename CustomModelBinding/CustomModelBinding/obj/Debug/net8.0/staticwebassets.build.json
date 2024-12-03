@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uxztjK0uYss1+6v+NWSMHtVFDZKPjc2RqFRJPV3q/FI=",
+  "Source": "CustomModelBinding",
+  "BasePath": "_content/CustomModelBinding",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomModelBinding\\wwwroot",
+      "Source": "CustomModelBinding",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\CustomModelBinding\\CustomModelBinding\\wwwroot\\",
+      "BasePath": "_content/CustomModelBinding",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

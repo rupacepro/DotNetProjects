@@ -1,0 +1,23 @@
+﻿@using ViewFirst.Models;
+@{
+    string apptTitle = "Asp.Net Core Application";
+    Person person = new Person()
+            {
+                Name = "Rupesh",
+                Age = 25
+            };
+
+
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>@apptTitle</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <h2>Hello, @person.Name</h2>
+    </body>
+</html>

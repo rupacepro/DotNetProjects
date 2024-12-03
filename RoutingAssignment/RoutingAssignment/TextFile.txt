@@ -1,0 +1,43 @@
+﻿
+app.useRouting();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapGet("files/{filename}.{extension}", async (context) =>
+                {
+                    string? filename = context.Request.RouteValues["filename"].ToString();
+                    string? extension = context.Request.RouteValues["extension"].ToString();
+
+                    await context.Response.WriteAsync($"{filename}.{extension}");
+                });
+            });
+
+
+routing parameter
+    "employee/{id}"
+    "employee/{id=1}"   default is 1
+    "employee/{id?}"    optional
+    "employee/{id:int}"
+    "employee/{id:guid}"       globally unique identifier
+    "employee/{id:minlength(3):maxlength(10)"  min and max character
+    or "employee/{id:length(3, 10)}"
+    employee/{id:length(2)}     exactly 2 characters
+    employee/{id:min(20)}       for numerical value min of 20
+    employee/{id:range(10, 20)}
+    employee/{id:alpha}         only alphabets
+    employee/{id:regex()}       regular expression
+
+
+    To use static files.
+        create a folder "wwwroot"
+        put files inside that folder
+        access by "/filename.extension"
+
+        If you want to create a custom folder and put static files and call app.UseRouting();
+        we can access through builder function
+
+            var builder = WebApplication.CreateBuilder(new WebApplicationOptions()
+            {
+                WebRootPath = "myroot"
+            });
+            var app = builder.Build();
