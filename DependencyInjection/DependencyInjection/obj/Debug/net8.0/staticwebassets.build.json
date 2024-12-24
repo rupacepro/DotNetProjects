@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "N5eg0d2QCYvwdJxdotCF6/ZbxibRmQ24eeDB0n7+t+U=",
+  "Source": "DependencyInjection",
+  "BasePath": "_content/DependencyInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DependencyInjection\\wwwroot",
+      "Source": "DependencyInjection",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\DependencyInjection\\DependencyInjection\\wwwroot\\",
+      "BasePath": "_content/DependencyInjection",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

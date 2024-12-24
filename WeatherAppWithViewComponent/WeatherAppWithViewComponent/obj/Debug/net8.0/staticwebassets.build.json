@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "253qqCu02pgWZP4ZSkyBMC5pQuRITPvJyxzlmeZIK9E=",
+  "Source": "WeatherAppWithViewComponent",
+  "BasePath": "_content/WeatherAppWithViewComponent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithViewComponent\\wwwroot",
+      "Source": "WeatherAppWithViewComponent",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\WeatherAppWithViewComponent\\WeatherAppWithViewComponent\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithViewComponent",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\WeatherAppWithViewComponent\\WeatherAppWithViewComponent\\wwwroot\\Script.js",
+      "SourceId": "WeatherAppWithViewComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\WeatherAppWithViewComponent\\WeatherAppWithViewComponent\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithViewComponent",
+      "RelativePath": "Script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Script.js"
+    },
+    {
+      "Identity": "R:\\From C drive\\UdemyDotNet\\WeatherAppWithViewComponent\\WeatherAppWithViewComponent\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppWithViewComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\WeatherAppWithViewComponent\\WeatherAppWithViewComponent\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithViewComponent",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
