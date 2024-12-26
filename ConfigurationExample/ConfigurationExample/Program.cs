@@ -8,6 +8,10 @@ builder.Services.AddControllersWithViews();
 builder.Services.Configure<Weather>
     (builder.Configuration.GetSection("client"));
 
+//load myownconfig.json
+builder.Configuration.AddJsonFile
+    ("MyOwnConfig.json", optional: true, reloadOnChange: true);
+
 var app = builder.Build();
 
 app.UseStaticFiles();

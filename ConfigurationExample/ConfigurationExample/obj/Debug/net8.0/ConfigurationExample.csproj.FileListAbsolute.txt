@@ -27,3 +27,4 @@ R:\From C drive\UdemyDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\
 R:\From C drive\UdemyDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net8.0\ConfigurationExample.pdb
 R:\From C drive\UdemyDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net8.0\ConfigurationExample.genruntimeconfig.cache
 R:\From C drive\UdemyDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net8.0\ref\ConfigurationExample.dll
+R:\From C drive\UdemyDotNet\ConfigurationExample\ConfigurationExample\bin\Debug\net8.0\MyOwnConfig.json

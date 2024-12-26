@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VGGIQdx4KrGfdQQYe7ZqqzuQNQG9Se4I2dHgc0x2sys=",
+  "Source": "StockApp",
+  "BasePath": "_content/StockApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockApp\\wwwroot",
+      "Source": "StockApp",
+      "ContentRoot": "R:\\From C drive\\UdemyDotNet\\StockApp\\StockApp\\wwwroot\\",
+      "BasePath": "_content/StockApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

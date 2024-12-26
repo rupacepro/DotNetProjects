@@ -43,5 +43,15 @@ namespace ConfigurationExample.Controllers
             ViewBag.clientSecret = _weather.clientSecret;
             return View();
         }
+
+        //another way to set secrets
+        //dotnet user-secrets init
+        //dotnet user-secrets set "name" "Rupesh"
+        //dotnet user-secrets list
+
+
+        //another way is to set a environment
+        //$Env:client__clientSecret="Rupesh@123"
+        //dotnet run --no-launch-profile
     }
 }
